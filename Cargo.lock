@@ -115,6 +115,7 @@ name = "basic-auth"
 version = "0.1.0"
 dependencies = [
  "axum",
+ "base64",
  "tokio",
  "tower-http",
 ]
